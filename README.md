@@ -32,18 +32,18 @@
 
 <br>
 **📌Etapa 04:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
-<img align="center" width="500"  alt="tela_"  src=""> 
-<img align="center" width="500"  alt="tela_"  src=""> 
+<img align="center" width="500"  alt="tela_login"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(44).png"> 
+
 <br>
 
 **📌Etapa 05:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
-<img align="center" width="500"  alt="tela_"  src=""> 
-<img align="center" width="500"  alt="tela_"  src=""> 
+<img align="center" width="500"  alt="tela_cadastro"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(45).png"> 
+
 <br>
 
 **📌Etapa 06:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
-<img align="center" width="500"  alt="tela_"  src=""> 
-<img align="center" width="500"  alt="tela_"  src=""> 
+<img align="center" width="500"  alt="tela_funcionario"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(46).png"> 
+
 <br>
 
 
