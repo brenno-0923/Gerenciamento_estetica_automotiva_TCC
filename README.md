@@ -16,15 +16,60 @@
 <br>
 
 **📌Etapa 01:** Na primeira página, apresentamos a interface de login, solicitando ao usuário seu nome e senha, além de requerer sua concordância com os termos do site. Posteriormente, oferecemos opções para que o usuário possa acessar nossa "plataforma" ou prosseguir com o processo de cadastro.<br>
-<img align="center" width="900"  alt="Login"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/e7eb0edf-1bc5-4634-97ea-90747f284e97"> <p>
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(35).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(36).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(37).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(38).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(39).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(40).png"> 
 
 **📌Etapa 02:** Na segunda página, coletamos informações do usuário necessárias para realizar o cadastro, permitindo-lhe assim utilizar a nossa "plataforma". <br>
-<img align="center" width="900" alt="Cadastro"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/614da28c-2b49-48ee-8651-933cdfa993d9"> <p>
+<img align="center" width="900" alt="direcionamento"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(41).png"> <p>
 
 **📌Etapa 03:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
-<img align="center" width="900"  alt="Dados"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/0a3f7745-2d69-4932-852a-300ff0a50e8f"> <p>
+<img align="center" width="500"  alt="tela_serviços"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(42).png"> 
+<img align="center" width="500"  alt="tela_serviços"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(43).png"> 
 
-**🔍Detalhes:**
+<br>
+**📌Etapa 04:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
+<img align="center" width="500"  alt="tela_"  src=""> 
+<img align="center" width="500"  alt="tela_"  src=""> 
+<br>
+
+**📌Etapa 05:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
+<img align="center" width="500"  alt="tela_"  src=""> 
+<img align="center" width="500"  alt="tela_"  src=""> 
+<br>
+
+**📌Etapa 06:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
+<img align="center" width="500"  alt="tela_"  src=""> 
+<img align="center" width="500"  alt="tela_"  src=""> 
+<br>
+
+
+**📌Etapa 07:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
+<img align="center" width="500"  alt="tela_"  src=""> 
+<img align="center" width="500"  alt="tela_"  src=""> 
+<br>
+
+
+**📌Etapa 08:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
+<img align="center" width="500"  alt="tela_"  src=""> 
+<img align="center" width="500"  alt="tela_"  src=""> 
+<br>
+
+**📌Etapa 09:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
+<img align="center" width="500"  alt="tela_"  src=""> 
+<img align="center" width="500"  alt="tela_"  src=""> 
+<br>
+
+**📌Etapa 10:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
+<img align="center" width="500"  alt="tela_"  src=""> 
+<img align="center" width="500"  alt="tela_"  src=""> 
+<br>
+
+
+
 
 <img align="center" width="300"  alt="senha"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/db33d8ba-e1b0-43f9-924b-03a78a94140f">
 <img align="center" width="300"  alt="senha"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/1a2933a6-034a-4695-9db3-e4f3b98a96e0"> <p>
