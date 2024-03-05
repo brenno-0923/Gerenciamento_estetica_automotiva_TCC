@@ -16,7 +16,12 @@
 <br>
 
 **📌Etapa 01:** Na primeira página, apresentamos a interface de login, solicitando ao usuário seu nome e senha, além de requerer sua concordância com os termos do site. Posteriormente, oferecemos opções para que o usuário possa acessar nossa "plataforma" ou prosseguir com o processo de cadastro.<br>
-<img align="center" width="900"  alt="Login"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/e7eb0edf-1bc5-4634-97ea-90747f284e97"> <p>
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(35).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(36).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(37).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(38).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(39).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(40).png"> 
 
 **📌Etapa 02:** Na segunda página, coletamos informações do usuário necessárias para realizar o cadastro, permitindo-lhe assim utilizar a nossa "plataforma". <br>
 <img align="center" width="900" alt="direcionamento"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(41).png"> <p>
