@@ -19,7 +19,7 @@
 <img align="center" width="900"  alt="Login"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/e7eb0edf-1bc5-4634-97ea-90747f284e97"> <p>
 
 **📌Etapa 02:** Na segunda página, coletamos informações do usuário necessárias para realizar o cadastro, permitindo-lhe assim utilizar a nossa "plataforma". <br>
-<img align="center" width="900" alt="Cadastro"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/614da28c-2b49-48ee-8651-933cdfa993d9"> <p>
+<img align="center" width="900" alt="direcionamento"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(41).png"> <p>
 
 **📌Etapa 03:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
 <img align="center" width="900"  alt="Dados"  src="https://github.com/brenno-0923/Tela_de_login/assets/85687957/0a3f7745-2d69-4932-852a-300ff0a50e8f"> <p>
