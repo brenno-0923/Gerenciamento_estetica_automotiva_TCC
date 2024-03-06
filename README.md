@@ -1,6 +1,10 @@
 <h1 align="center"> Gerenciamento de uma estética automotiva  </h1>
 
-**⛳Desafio:** Este projeto foi desenvolvido como meu Trabalho de Conclusão de Curso na Faculdade de Análise e Desenvolvimento de Sistemas (ADS). O objetivo era que os alunos criassem um sistema completo, utilizando todos os conhecimentos adquiridos ao longo da jornada acadêmica. Meu projeto foi desenvolvido individualmente e consistiu na criação de um sistema para gerenciar uma estética automotiva, abrangendo desde a concepção inicial até o desenvolvimento final do projeto..
+**⛳Desafio:** Este projeto foi desenvolvido como meu Trabalho de Conclusão de Curso na Faculdade de Análise e Desenvolvimento de Sistemas (ADS). O objetivo era que os alunos criassem um sistema completo, utilizando todos os conhecimentos adquiridos ao longo da jornada acadêmica. Meu projeto foi desenvolvido individualmente e consistiu na criação de um sistema para gerenciar uma estética automotiva, abrangendo desde a concepção inicial até o desenvolvimento final do projeto.. <br>
+
+Funcionalidades:
+
+<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -40,6 +44,7 @@ A página de login permite que os usuários acessem o sistema ou criem um cadast
 
 **📌Etapa 06:** Este campo é destinado aos funcionários e requer o nome.sobrenome do funcionário e uma senha (essa senha é compartilhada entre todos os funcionários). Quando os funcionários acessam essa aba, eles têm acesso a uma lista com os dados dos clientes e os serviços que precisam ser realizados. Isso torna o processo mais dinâmico, permitindo que os funcionários cancelem ou confirmem serviços que foram concluídos para os clientes.<br>
 <img align="center" width="500"  alt="tela_funcionario"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(46).png"> 
+<img align="center" width="500"  alt="tela_funcionario"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(47).png"> 
 
 <br>
 
