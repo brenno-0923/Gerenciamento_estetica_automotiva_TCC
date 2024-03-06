@@ -1,6 +1,6 @@
-<h1 align="center"> Página de Cadastro 👨🏻‍💻 </h1>
+<h1 align="center"> Gerenciamento de uma estética automotiva  </h1>
 
-**⛳Desafio:** Desenvolver uma página de acesso que tenha tanto o processo de login quanto o de cadastro, que permita que os dados sejam armazenados dentro de um banco de dados relacional.
+**⛳Desafio:** Este projeto foi desenvolvido como meu Trabalho de Conclusão de Curso na Faculdade de Análise e Desenvolvimento de Sistemas (ADS). O objetivo era que os alunos criassem um sistema completo, utilizando todos os conhecimentos adquiridos ao longo da jornada acadêmica. Meu projeto foi desenvolvido individualmente e consistiu na criação de um sistema para gerenciar uma estética automotiva, abrangendo desde a concepção inicial até o desenvolvimento final do projeto..
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
  
 <br>
 
-**📌Etapa 01:** Na primeira página, apresentamos a interface de login, solicitando ao usuário seu nome e senha, além de requerer sua concordância com os termos do site. Posteriormente, oferecemos opções para que o usuário possa acessar nossa "plataforma" ou prosseguir com o processo de cadastro.<br>
+**📌Etapa 01:** As imagens abaixo apresentam a página inicial do meu projeto, dedicada a explicar o funcionamento do sistema, os serviços oferecidos, a importância de cada serviço e alguns resultados. Além disso, inclui um mapa para localizar a estética automotiva e um rodapé contendo informações adicionais sobre a mesma.<br>
 <img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(35).png"> 
 <img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(36).png"> 
 <img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(37).png"> 
@@ -23,25 +23,22 @@
 <img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(39).png"> 
 <img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(40).png"> 
 
-**📌Etapa 02:** Na segunda página, coletamos informações do usuário necessárias para realizar o cadastro, permitindo-lhe assim utilizar a nossa "plataforma". <br>
+**📌Etapa 02:** Este é o navbar, que inclui a logo da estética, bem como as opções de navegação para a página inicial, serviços, login e cadastro, onde os usuários podem explorar o sistema. <br>
 <img align="center" width="900" alt="direcionamento"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(41).png"> <p>
 
-**📌Etapa 03:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
+**📌Etapa 03:** Esta é a aba de serviços, que fornece aos usuários uma explicação detalhada de todos os serviços disponíveis, além de destacar a importância de cada um.<br>
 <img align="center" width="500"  alt="tela_serviços"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(42).png"> 
 <img align="center" width="500"  alt="tela_serviços"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(43).png"> 
 
 <br>
-**📌Etapa 04:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
+**📌Etapa 04:** 
+A página de login permite que os usuários acessem o sistema ou criem um cadastro. Além disso, há uma seção exclusiva para funcionários. O diferencial deste projeto é que, ao clicar na aba "Registrar-se", o usuário fornecerá seu nome, placa e modelo do veículo, além do e-mail. Ele também poderá escolher a data e hora para o serviço, adaptando-se melhor à sua conveniência. <br>
 <img align="center" width="500"  alt="tela_login"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(44).png"> 
-
-<br>
-
-**📌Etapa 05:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
 <img align="center" width="500"  alt="tela_cadastro"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(45).png"> 
 
 <br>
 
-**📌Etapa 06:** Registrar todas as informações fornecidas durante o processo de cadastro e inseri-las nos campos correspondentes da tabela "cliente".<br>
+**📌Etapa 06:** Este campo é destinado aos funcionários e requer o nome.sobrenome do funcionário e uma senha (essa senha é compartilhada entre todos os funcionários). Quando os funcionários acessam essa aba, eles têm acesso a uma lista com os dados dos clientes e os serviços que precisam ser realizados. Isso torna o processo mais dinâmico, permitindo que os funcionários cancelem ou confirmem serviços que foram concluídos para os clientes.<br>
 <img align="center" width="500"  alt="tela_funcionario"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(46).png"> 
 
 <br>
