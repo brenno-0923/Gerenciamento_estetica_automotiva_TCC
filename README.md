@@ -16,7 +16,11 @@ Funcionalidades:
     <img align="center" width="50" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">    
 </div> 
- 
+
+ **📌Etapa 01:** diagramas e casos de uso <br>
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/UseCase%20Diagram1%20-%20final.jpg"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(54).png"> 
+<img align="center" width="500"  alt="tela_home"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(53).png"> 
 <br>
 
 **📌Etapa 01:** As imagens abaixo apresentam a página inicial do meu projeto, dedicada a explicar o funcionamento do sistema, os serviços oferecidos, a importância de cada serviço e alguns resultados. Além disso, inclui um mapa para localizar a estética automotiva e um rodapé contendo informações adicionais sobre a mesma.<br>
