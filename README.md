@@ -39,7 +39,7 @@ Funcionalidades:
 <img align="center" width="500"  alt="tela_serviços"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(43).png"> 
 
 <br>
-**📌Etapa 04: "" 
+**📌Etapa 04:** 
 A página de login permite que os usuários acessem o sistema ou criem um cadastro. Além disso, há uma seção exclusiva para funcionários. O diferencial deste projeto é que, ao clicar na aba "Registrar-se", o usuário fornecerá seu nome, placa e modelo do veículo, além do e-mail. Ele também poderá escolher a data e hora para o serviço, adaptando-se melhor à sua conveniência. <br>
 <img align="center" width="500"  alt="tela_login"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(44).png"> 
 <img align="center" width="500"  alt="tela_cadastro"  src="https://raw.githubusercontent.com/brenno-0923/Gerenciamento_estetica_automotiva_TCC/main/imgs/img_github/Captura%20de%20Tela%20(45).png"> 
